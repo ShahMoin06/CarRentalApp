@@ -20,4 +20,5 @@ CarRentalApp is a car rental mobile application built with Dart and Flutter. It 
 9. Car Features:
    Detailed car features are displayed, helping users choose the most suitable vehicle for their trip.
    https://drive.google.com/drive/folders/1SMpN-O6Izzz-unoGRr-8Yhe26NOQdU96?usp=sharing
-[Figma Design](Figma.md
+.   [Figma Design](Figma.md)
+   
